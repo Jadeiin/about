@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   [languages.en]
     languageName = 'English'
     weight = 1
-    title = 'Zijian Li'
+    title = 'Academic Page'
 
     [languages.en.params]
       author = "Zijian Li"
@@ -49,10 +49,6 @@ disableKinds = ["taxonomy", "term", "RSS"]
       name = 'Invited Talks'
       url = '#invited-talks'
       weight = 6
-    [[languages.en.menu.main]]
-      name = 'Internships'
-      url = '#internships'
-      weight = 7
       
   [languages.zh]
     languageName = '中文'
@@ -62,7 +58,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     [languages.zh.params]
       author = "李梓建"
       description = "北京理工大学博士生，专注于智能无人系统技术"
-      motto = "世界上大部分事，都没有太大意义。真理与爱除外。"
+      motto = "没有良知的人从不承受痛苦。"
     
     [[languages.zh.menu.main]]
       name = '关于我'
@@ -88,10 +84,6 @@ disableKinds = ["taxonomy", "term", "RSS"]
       name = '受邀报告'
       url = '#invited-talks'
       weight = 6
-    [[languages.zh.menu.main]]
-      name = '实习经历'
-      url = '#internships'
-      weight = 7
 
 [params]
   profilePicture = "images/profile.png"
@@ -99,7 +91,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/Jadeiin"
     icon = "fab fa-github"
   [[params.social]]
     name = "google-scholar"
@@ -110,13 +102,13 @@ disableKinds = ["taxonomy", "term", "RSS"]
     url = "mailto:Frithia@outlook.com"
     icon = "fas fa-envelope"
   [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/"
-    icon = "fab fa-linkedin"
+    name = "bilibili"
+    url = "https://space.bilibili.com/15090967"
+    icon = "fab fa-bilibili"
   [[params.social]]
-    name = "zhihu"
-    url = "https://zhihu.com/"
-    icon = "fab fa-zhihu"
+    name = "weixin"
+    url = "https://u.wechat.com/MEF0FGtGYwyv4xT2LsRGVNQ"
+    icon = "fab fa-weixin"
 
 [build]
   writeStats = false
