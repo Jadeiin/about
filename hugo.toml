@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     [languages.en.params]
       author = "Zijian Li"
       description = "Ph.D Student in [Beijing Institute of Technology](https://www.bit.edu.cn). Focusing on Intelligent Unmanned Systems Technology."
-      motto = "Most things in the world are not that important. But truth and love matter."
+      motto = "A man who has no conscience, no goodness, does not suffer."
     
     [[languages.en.menu.main]]
       name = 'About Me'
@@ -86,7 +86,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       weight = 6
 
 [params]
-  profilePicture = "images/profile.png"
+  profilePicture = "images/profile.jpg"
   enableDarkMode = true
   
   [[params.social]]
