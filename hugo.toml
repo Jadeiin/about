@@ -94,9 +94,9 @@ disableKinds = ["taxonomy", "term", "RSS"]
     url = "https://github.com/Jadeiin"
     icon = "fab fa-github"
   [[params.social]]
-    name = "google-scholar"
-    url = "https://scholar.google.com/"
-    icon = "fab fa-google-scholar"
+    name = "orcid"
+    url = "https://orcid.org/0009-0002-0680-5523"
+    icon = "fab fa-orcid"
   [[params.social]]
     name = "email"
     url = "mailto:Frithia@outlook.com"
